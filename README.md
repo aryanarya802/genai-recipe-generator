@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # 🍳 Smart Recipe Generator - AI-Powered Recipe App
 
@@ -144,3 +145,6 @@ It helps more people discover it.
 - [Vercel](https://vercel.com/)
 - [Next.js](https://nextjs.org/)
 - [MongoDB](https://www.mongodb.com/)
+=======
+# genai-recipe-generator
+>>>>>>> 88214a7ed911cec0d8166e04d308614580cf8adf
