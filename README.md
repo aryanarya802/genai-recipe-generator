@@ -54,8 +54,8 @@
 
 ### 1. **Clone the Repository**
 ```bash
-git clone https://github.com/Dereje1/smart-recipe-generator.git
-cd smart-recipe-generator
+https://github.com/aryanarya802/genai-recipe-generator.git
+cd genai-recipe-generator
 ```
 
 ### 2. **Install Dependencies**
