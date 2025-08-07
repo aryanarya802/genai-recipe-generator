@@ -1,14 +1,3 @@
-<<<<<<< HEAD
-
-# 🍳 Smart Recipe Generator - AI-Powered Recipe App
-
-![GitHub Stars](https://img.shields.io/github/stars/Dereje1/smart-recipe-generator?style=social)
-![GitHub Forks](https://img.shields.io/github/forks/Dereje1/smart-recipe-generator?style=social)
-![License](https://img.shields.io/github/license/Dereje1/smart-recipe-generator)
-![Vercel Deployment](https://img.shields.io/badge/Deployed%20on-Vercel-green)
-
-**Smart Recipe Generator** is an **AI-powered web application** that uses **GPT-4** to generate unique recipes based on selected ingredients and dietary preferences, **DALL·E** to create custom recipe images, and **TTS** to narrate recipes. It's designed to make cooking easy, creative, and accessible for everyone.
-
 🎥 **App Demo**
 
 ![Smart Recipe Generator Demo](./public/demo.gif)
